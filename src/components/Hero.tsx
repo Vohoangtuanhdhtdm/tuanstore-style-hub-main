@@ -35,7 +35,7 @@ const Hero = () => {
             style={{ animationDelay: "0.5s" }}
           >
             <a href="#categories" className="btn-hero">
-              Mua sắm ngay
+              Buy now
             </a>
             <a href="#collections" className="btn-hero-outline">
               Xem bộ sưu tập
